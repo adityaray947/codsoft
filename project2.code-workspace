@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../DSA"
+		},
+		{
+			"path": "../DSA 2"
+		},
+		{
+			"path": "../leetcode"
+		},
+		{
+			"path": "../project"
+		},
+		{
+			"path": "../DSA_LB"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"3D_ARR.C": "cpp",
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
